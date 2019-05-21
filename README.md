@@ -1,10 +1,10 @@
 # Statistical Analysis for Public Policy 
-My contribution to Freakonomics using Python to use statistcal analysis to try and find interesting signals in public datasets. 
+My contribution to Freakonomics by using Python to use statistcal analysis to try and find interesting signals in public datasets. 
 
 ### Gender/Height Pay Gap
-Exploring if a pay gap exists for height and gender.
+(Python notebook)[Gender_Height_Pay_Gap.ipynb] exploring if a pay gap exists for height and gender.
 
-(Spoiler - yes, a pay gap does exist across genders)
+(Spoiler - yes, a pay gap does exist across genders)  
 (and no, a pay gap does not exist for height when you analyze data for each gender)
 
 ### Stop and Frisk in New York City
